@@ -1,0 +1,87 @@
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\bin\Debug\NHCPMS.exe.config
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\bin\Debug\NHCPMS.exe
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\bin\Debug\NHCPMS.pdb
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.csprojResolveAssemblyReference.cache
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Administrator_sControlPanel.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.changepassword.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Form1.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Payment.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.PaymentPrint.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Properties.Resources.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Welcome.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.csproj.GenerateResource.Cache
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.exe
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.pdb
+E:\final year project\NHCPMS\NHCPMS\bin\Debug\NHCPMS.exe.config
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.exe
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.pdb
+E:\final year project\NHCPMS\NHCPMS\bin\Debug\NHCPMS.exe
+E:\final year project\NHCPMS\NHCPMS\bin\Debug\NHCPMS.pdb
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.csprojResolveAssemblyReference.cache
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Administrator_sControlPanel.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.changepassword.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Form1.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.MainMenu.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Payment.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.PaymentPrint.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Properties.Resources.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Superuser.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Welcome.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.csproj.GenerateResource.Cache
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Bank.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.BankApproval.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Accounts_login.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Developers.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Directorlogin.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Doctor_s_Login.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.HealthUnit.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Insertkey.resources
+E:\final year project\NHCPMS\NHCPMS\obj\Debug\NHCPMS.DoctorModule.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Accounts_login.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Bank.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.BankApproval.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Developers.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Directorlogin.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Doctor_s_Login.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.DoctorModule.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.HealthCenters.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.HealthUnit.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Insertkey.resources
+C:\Users\FAHAD\Desktop\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Superuser.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.csprojResolveAssemblyReference.cache
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Accounts_login.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Administrator_sControlPanel.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Bank.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.BankApproval.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.changepassword.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Developers.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Directorlogin.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Doctor_s_Login.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.DoctorModule.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Form1.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.HealthCenters.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.HealthUnit.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Insertkey.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Payment.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.PaymentPrint.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Properties.Resources.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Superuser.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.Welcome.resources
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.csproj.GenerateResource.Cache
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\NHCPMS.exe.config
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\NHCPMS.exe
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\NHCPMS.pdb
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\GSMCommServer.dll
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\GSMCommShared.dll
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\GSMCommunication.dll
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\PDUConverter.dll
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\GSMCommServer.xml
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\GSMCommShared.xml
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\GSMCommunication.xml
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\PDUConverter.xml
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.exe
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\obj\Debug\NHCPMS.pdb
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\MySql.Data.dll
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\ClosedXML.dll
+C:\Users\CLAREEN MAURIAN\Documents\Visual Studio 2012\Projects\NHCPMS\NHCPMS\bin\Debug\ClosedXML.xml

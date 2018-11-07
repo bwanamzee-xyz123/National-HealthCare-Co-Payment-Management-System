@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D99E509B-F286-425F-A901-B7E3474A55D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NHCPMS</RootNamespace>
+    <AssemblyName>NHCPMS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML">
+      <HintPath>NHCPMS\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml">
+      <HintPath>NHCPMS\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommServer">
+      <HintPath>..\..\..\..\..\..\..\Program Files\GSMComm\DotNet40\GSMCommServer.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommShared">
+      <HintPath>..\..\..\..\..\..\..\Program Files\GSMComm\DotNet40\GSMCommShared.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication">
+      <HintPath>..\..\..\..\..\..\..\Program Files\GSMComm\DotNet40\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>NHCPMS\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>NHCPMS\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PDUConverter">
+      <HintPath>..\..\..\..\..\..\..\Program Files\GSMComm\DotNet40\PDUConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts login.Designer.cs">
+      <DependentUpon>Accounts login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator%27sControlPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator%27sControlPanel.Designer.cs">
+      <DependentUpon>Administrator%27sControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bank.Designer.cs">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankApproval.Designer.cs">
+      <DependentUpon>BankApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changepassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changepassword.Designer.cs">
+      <DependentUpon>changepassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Developers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Developers.Designer.cs">
+      <DependentUpon>Developers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Directorlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Directorlogin.Designer.cs">
+      <DependentUpon>Directorlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor%27s Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor%27s Login.Designer.cs">
+      <DependentUpon>Doctor%27s Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorModule.Designer.cs">
+      <DependentUpon>DoctorModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encryption.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HealthCenters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HealthCenters.Designer.cs">
+      <DependentUpon>HealthCenters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HealthUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HealthUnit.Designer.cs">
+      <DependentUpon>HealthUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Insertkey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insertkey.Designer.cs">
+      <DependentUpon>Insertkey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentPrint.Designer.cs">
+      <DependentUpon>PaymentPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Superuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Superuser.Designer.cs">
+      <DependentUpon>Superuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Accounts login.resx">
+      <DependentUpon>Accounts login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrator%27sControlPanel.resx">
+      <DependentUpon>Administrator%27sControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bank.resx">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankApproval.resx">
+      <DependentUpon>BankApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changepassword.resx">
+      <DependentUpon>changepassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Developers.resx">
+      <DependentUpon>Developers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Directorlogin.resx">
+      <DependentUpon>Directorlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor%27s Login.resx">
+      <DependentUpon>Doctor%27s Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorModule.resx">
+      <DependentUpon>DoctorModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HealthCenters.resx">
+      <DependentUpon>HealthCenters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HealthUnit.resx">
+      <DependentUpon>HealthUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insertkey.resx">
+      <DependentUpon>Insertkey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentPrint.resx">
+      <DependentUpon>PaymentPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Superuser.resx">
+      <DependentUpon>Superuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
